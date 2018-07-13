@@ -7,8 +7,6 @@
     "start": "ng serve",
     "build": "ng build --env=prod --output-hashing=all",
     "test": "ng test",
-	"build": "ng build --dev",
-    "prod" : "ng build --prod",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
